@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Damas.cpp
+D:\Microsoft Visual Studio\Trabajos Grandes\Juego de damas proyecto\Damas\Damas\Damas.cpp(419,14): warning C4101: 'fil': variable local sin referencia
+D:\Microsoft Visual Studio\Trabajos Grandes\Juego de damas proyecto\Damas\Damas\Damas.cpp(419,9): warning C4101: 'col': variable local sin referencia
+D:\Microsoft Visual Studio\Trabajos Grandes\Juego de damas proyecto\Damas\Damas\Damas.cpp(451,15): warning C4101: 'colores': variable local sin referencia
+D:\Microsoft Visual Studio\Trabajos Grandes\Juego de damas proyecto\Damas\Damas\Damas.cpp(451,12): warning C4101: 'y': variable local sin referencia
+D:\Microsoft Visual Studio\Trabajos Grandes\Juego de damas proyecto\Damas\Damas\Damas.cpp(451,9): warning C4101: 'x': variable local sin referencia
+  Generando código...
+D:\Microsoft Visual Studio\Trabajos Grandes\Juego de damas proyecto\Damas\Damas\Damas.cpp(189): warning C4715: 'hayFicha': no todas las rutas de acceso de control devuelven un valor
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Damas.vcxproj -> D:\Microsoft Visual Studio\Trabajos Grandes\Juego de damas proyecto\Damas\Debug\Damas.exe

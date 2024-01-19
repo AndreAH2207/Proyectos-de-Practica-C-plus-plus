@@ -1,0 +1,10 @@
+﻿  Main.cpp
+D:\Microsoft Visual Studio\Trabajos de programacion Python\PC1\Ejercicio 2\Main.cpp(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+D:\Microsoft Visual Studio\Trabajos de programacion Python\PC1\Ejercicio 2\Main.cpp(9,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Microsoft Visual Studio\Trabajos de programacion Python\PC1\Ejercicio 2\Main.cpp(33,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\Microsoft Visual Studio\Trabajos de programacion Python\PC1\Ejercicio 2\Main.cpp(54,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\Microsoft Visual Studio\Trabajos de programacion Python\PC1\Ejercicio 2\Main.cpp(75,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  Main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Ejercicio 2.vcxproj -> D:\Microsoft Visual Studio\Trabajos de programacion Python\PC1\Ejercicio 2\Debug\Ejercicio 2.exe

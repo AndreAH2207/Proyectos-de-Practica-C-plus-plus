@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Ejercicio 11 (Hoja2,ej1,contraseña).cpp
+D:\Microsoft Visual Studio\Random\Ejercicio 11 (Hoja2,ej1,contraseña)\Ejercicio 11 (Hoja2,ej1,contraseña)\Pasword.hpp(35,39): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Microsoft Visual Studio\Random\Ejercicio 11 (Hoja2,ej1,contraseña)\Ejercicio 11 (Hoja2,ej1,contraseña)\Pasword.hpp(38,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Microsoft Visual Studio\Random\Ejercicio 11 (Hoja2,ej1,contraseña)\Ejercicio 11 (Hoja2,ej1,contraseña)\Ejercicio 11 (Hoja2,ej1,contraseña).cpp(13,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Ejercicio 11 (Hoja2,ej1,contraseña).vcxproj -> D:\Microsoft Visual Studio\Random\Ejercicio 11 (Hoja2,ej1,contraseña)\x64\Debug\Ejercicio 11 (Hoja2,ej1,contraseña).exe

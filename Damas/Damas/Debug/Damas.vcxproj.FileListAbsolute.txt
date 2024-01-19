@@ -1,0 +1,4 @@
+D:\Microsoft Visual Studio\Juego de damas proyecto\Damas\Damas\Debug\Damas.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Juego de damas proyecto\Damas\Damas\Debug\Damas.vcxproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\Trabajos Grandes\Juego de damas proyecto\Damas\Damas\Debug\Damas.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Trabajos Grandes\Juego de damas proyecto\Damas\Damas\Debug\Damas.vcxproj.SuggestedBindingRedirects.cache

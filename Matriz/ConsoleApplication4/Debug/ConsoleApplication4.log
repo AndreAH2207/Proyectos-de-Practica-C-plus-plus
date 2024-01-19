@@ -1,0 +1,7 @@
+﻿  ConsoleApplication4.cpp
+D:\Microsoft Visual Studio\Random\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+D:\Microsoft Visual Studio\Random\ConsoleApplication4\ConsoleApplication4\pch.cpp : message : vea la definición anterior de '__CLR_VER'
+D:\Microsoft Visual Studio\Random\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40809167' para el encabezado precompilado pero no para la compilación actual
+D:\Microsoft Visual Studio\Random\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(98,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ConsoleApplication4.vcxproj -> D:\Microsoft Visual Studio\Random\ConsoleApplication4\Debug\ConsoleApplication4.exe

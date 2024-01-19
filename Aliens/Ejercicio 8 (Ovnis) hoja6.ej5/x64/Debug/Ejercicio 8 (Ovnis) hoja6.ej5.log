@@ -1,0 +1,4 @@
+﻿  Ejercicio 8 (Ovnis) hoja6.ej5.cpp
+D:\Microsoft Visual Studio\Random\Ejercicio 8 (Ovnis) hoja6.ej5\Ejercicio 8 (Ovnis) hoja6.ej5\Ejercicio 8 (Ovnis) hoja6.ej5.cpp(105,15): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Ejercicio 8 (Ovnis) hoja6.ej5.vcxproj -> D:\Microsoft Visual Studio\Random\Ejercicio 8 (Ovnis) hoja6.ej5\x64\Debug\Ejercicio 8 (Ovnis) hoja6.ej5.exe

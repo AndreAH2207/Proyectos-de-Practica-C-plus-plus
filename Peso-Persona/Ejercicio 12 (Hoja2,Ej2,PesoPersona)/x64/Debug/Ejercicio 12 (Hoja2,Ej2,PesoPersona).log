@@ -1,0 +1,7 @@
+﻿  Ejercicio 12 (Hoja2,Ej2,PesoPersona).cpp
+D:\Microsoft Visual Studio\Random\Ejercicio 12 (Hoja2,Ej2,PesoPersona)\Ejercicio 12 (Hoja2,Ej2,PesoPersona)\CPersona.hpp(53,11): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Microsoft Visual Studio\Random\Ejercicio 12 (Hoja2,Ej2,PesoPersona)\Ejercicio 12 (Hoja2,Ej2,PesoPersona)\CPersona.hpp(99,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Microsoft Visual Studio\Random\Ejercicio 12 (Hoja2,Ej2,PesoPersona)\Ejercicio 12 (Hoja2,Ej2,PesoPersona)\Ejercicio 12 (Hoja2,Ej2,PesoPersona).cpp(22,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Microsoft Visual Studio\Random\Ejercicio 12 (Hoja2,Ej2,PesoPersona)\Ejercicio 12 (Hoja2,Ej2,PesoPersona)\CPersona.hpp(102): warning C4700: se utilizó la variable local 'digito' sin inicializar
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Ejercicio 12 (Hoja2,Ej2,PesoPersona).vcxproj -> D:\Microsoft Visual Studio\Random\Ejercicio 12 (Hoja2,Ej2,PesoPersona)\x64\Debug\Ejercicio 12 (Hoja2,Ej2,PesoPersona).exe

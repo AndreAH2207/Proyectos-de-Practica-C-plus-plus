@@ -1,0 +1,5 @@
+E:\PC1\Ejercicio 2\Debug\Ejercicio 2.vcxproj.AssemblyReference.cache
+E:\PC1\Ejercicio 2\Debug\Ejercicio 2.exe
+D:\Microsoft Visual Studio\Trabajos de programacion Python\PC1\Ejercicio 2\Debug\Ejercicio 2.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Trabajos de programacion Python\PC1\Ejercicio 2\Debug\Ejercicio 2.vcxproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\Trabajos de programacion Python\PC1\Ejercicio 2\Debug\Ejercicio 2.exe

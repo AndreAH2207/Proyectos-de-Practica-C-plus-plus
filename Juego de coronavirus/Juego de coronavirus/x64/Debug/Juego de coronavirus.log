@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Juego de coronavirus\Juego de coronavirus\Main.cpp(15,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Juego de coronavirus\Juego de coronavirus\Main.cpp(38,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Juego de coronavirus\Juego de coronavirus\Main.cpp(40,16): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Juego de coronavirus\Juego de coronavirus\Main.cpp(43,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Juego de coronavirus\Juego de coronavirus\Main.cpp(53,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  Main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Juego de coronavirus.vcxproj -> D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Juego de coronavirus\x64\Debug\Juego de coronavirus.exe

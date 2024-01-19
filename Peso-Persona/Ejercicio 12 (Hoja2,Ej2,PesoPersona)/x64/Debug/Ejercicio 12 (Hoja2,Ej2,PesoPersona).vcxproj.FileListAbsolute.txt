@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Random\Ejercicio 12 (Hoja2,Ej2,PesoPersona)\Ejercicio 12 (Hoja2,Ej2,PesoPersona)\x64\Debug\Ejercicio 12 (Hoja2,Ej2,PesoPersona).vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Random\Ejercicio 12 (Hoja2,Ej2,PesoPersona)\Ejercicio 12 (Hoja2,Ej2,PesoPersona)\x64\Debug\Ejercicio 12 (Hoja2,Ej2,PesoPersona).vcxproj.SuggestedBindingRedirects.cache

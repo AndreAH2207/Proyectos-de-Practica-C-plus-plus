@@ -1,0 +1,6 @@
+﻿  Ejercicio 13(Hoja3,Ej1,EclipseYSismo).cpp
+D:\Microsoft Visual Studio\Random\Ejercicio 13(Hoja3,Ej1,EclipseYSismo)\Ejercicio 13(Hoja3,Ej1,EclipseYSismo)\Ejercicio 13(Hoja3,Ej1,EclipseYSismo).cpp(6,7): error C2059: error de sintaxis: 'using namespace'
+D:\Microsoft Visual Studio\Random\Ejercicio 13(Hoja3,Ej1,EclipseYSismo)\Ejercicio 13(Hoja3,Ej1,EclipseYSismo)\Ejercicio 13(Hoja3,Ej1,EclipseYSismo).cpp(6,20): error C2238: símbolos (token) inesperados delante de ';'
+D:\Microsoft Visual Studio\Random\Ejercicio 13(Hoja3,Ej1,EclipseYSismo)\Ejercicio 13(Hoja3,Ej1,EclipseYSismo)\Ejercicio 13(Hoja3,Ej1,EclipseYSismo).cpp(7,7): error C2059: error de sintaxis: 'using namespace'
+D:\Microsoft Visual Studio\Random\Ejercicio 13(Hoja3,Ej1,EclipseYSismo)\Ejercicio 13(Hoja3,Ej1,EclipseYSismo)\Ejercicio 13(Hoja3,Ej1,EclipseYSismo).cpp(7,23): error C2238: símbolos (token) inesperados delante de ';'
+D:\Microsoft Visual Studio\Random\Ejercicio 13(Hoja3,Ej1,EclipseYSismo)\Ejercicio 13(Hoja3,Ej1,EclipseYSismo)\CEclipse.hpp(9): fatal error C1075: "{": no se encontró ningún token coincidente

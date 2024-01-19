@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Random\Ejercicio 8 (Ovnis) hoja6.ej5\Ejercicio 8 (Ovnis) hoja6.ej5\x64\Debug\Ejercicio 8 (Ovnis) hoja6.ej5.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Random\Ejercicio 8 (Ovnis) hoja6.ej5\Ejercicio 8 (Ovnis) hoja6.ej5\x64\Debug\Ejercicio 8 (Ovnis) hoja6.ej5.vcxproj.SuggestedBindingRedirects.cache

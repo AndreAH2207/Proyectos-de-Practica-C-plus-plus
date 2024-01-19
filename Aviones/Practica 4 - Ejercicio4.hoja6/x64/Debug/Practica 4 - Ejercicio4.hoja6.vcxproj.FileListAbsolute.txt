@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Random\Practica 4 - Ejercicio4.hoja6\Practica 4 - Ejercicio4.hoja6\x64\Debug\Practica 4 - Ejercicio4.hoja6.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Random\Practica 4 - Ejercicio4.hoja6\Practica 4 - Ejercicio4.hoja6\x64\Debug\Practica 4 - Ejercicio4.hoja6.vcxproj.SuggestedBindingRedirects.cache

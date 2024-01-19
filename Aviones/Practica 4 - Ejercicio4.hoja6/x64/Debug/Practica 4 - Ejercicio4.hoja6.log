@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Practica 4 - Ejercicio4.hoja6.cpp
+D:\Microsoft Visual Studio\Random\Practica 4 - Ejercicio4.hoja6\Practica 4 - Ejercicio4.hoja6\Practica 4 - Ejercicio4.hoja6.cpp(43,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\Microsoft Visual Studio\Random\Practica 4 - Ejercicio4.hoja6\Practica 4 - Ejercicio4.hoja6\Practica 4 - Ejercicio4.hoja6.cpp(61,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\Microsoft Visual Studio\Random\Practica 4 - Ejercicio4.hoja6\Practica 4 - Ejercicio4.hoja6\Practica 4 - Ejercicio4.hoja6.cpp(78,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\Microsoft Visual Studio\Random\Practica 4 - Ejercicio4.hoja6\Practica 4 - Ejercicio4.hoja6\Practica 4 - Ejercicio4.hoja6.cpp(96,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\Microsoft Visual Studio\Random\Practica 4 - Ejercicio4.hoja6\Practica 4 - Ejercicio4.hoja6\Practica 4 - Ejercicio4.hoja6.cpp(115,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\Microsoft Visual Studio\Random\Practica 4 - Ejercicio4.hoja6\Practica 4 - Ejercicio4.hoja6\Practica 4 - Ejercicio4.hoja6.cpp(134,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Practica 4 - Ejercicio4.hoja6.vcxproj -> D:\Microsoft Visual Studio\Random\Practica 4 - Ejercicio4.hoja6\x64\Debug\Practica 4 - Ejercicio4.hoja6.exe

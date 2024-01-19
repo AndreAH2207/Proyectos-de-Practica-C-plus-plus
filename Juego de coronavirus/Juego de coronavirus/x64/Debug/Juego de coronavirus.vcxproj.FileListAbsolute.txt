@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Juego de coronavirus\Juego de coronavirus\x64\Debug\Juego de coronavirus.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Juego de coronavirus\Juego de coronavirus\x64\Debug\Juego de coronavirus.vcxproj.SuggestedBindingRedirects.cache

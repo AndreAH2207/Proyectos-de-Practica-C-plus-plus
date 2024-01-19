@@ -1,0 +1,15 @@
+﻿  Videojuego.cpp
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Bonus o Castigo\Bonus o Castigo\Monigote.h(40,3): error C2653: 'Console': no es un nombre de clase o espacio de nombres
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Bonus o Castigo\Bonus o Castigo\Monigote.h(40,12): error C2065: 'ForegroundColor': identificador no declarado
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Bonus o Castigo\Bonus o Castigo\Monigote.h(40,30): error C2653: 'ConsoleColor': no es un nombre de clase o espacio de nombres
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Bonus o Castigo\Bonus o Castigo\Monigote.h(40,44): error C2065: 'White': identificador no declarado
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Bonus o Castigo\Bonus o Castigo\Monigote.h(41,3): error C2653: 'Console': no es un nombre de clase o espacio de nombres
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Bonus o Castigo\Bonus o Castigo\Monigote.h(41,12): error C3861: 'SetCursorPosition': no se encontró el identificador
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Bonus o Castigo\Bonus o Castigo\Monigote.h(42,3): error C2653: 'Console': no es un nombre de clase o espacio de nombres
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Bonus o Castigo\Bonus o Castigo\Monigote.h(42,12): error C3861: 'SetCursorPosition': no se encontró el identificador
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Bonus o Castigo\Bonus o Castigo\Monigote.h(47,3): error C2653: 'Console': no es un nombre de clase o espacio de nombres
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Bonus o Castigo\Bonus o Castigo\Monigote.h(47,12): error C3861: 'SetCursorPosition': no se encontró el identificador
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Bonus o Castigo\Bonus o Castigo\Monigote.h(48,3): error C2653: 'Console': no es un nombre de clase o espacio de nombres
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Examen Parcial\Bonus o Castigo\Bonus o Castigo\Monigote.h(48,12): error C3861: 'SetCursorPosition': no se encontró el identificador
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...

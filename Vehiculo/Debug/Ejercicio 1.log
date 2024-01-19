@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\PC1\Ejercicio 1\Admin.h(23,21): warning C4018: '<': signed/unsigned mismatch
+  Main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Ejercicio 1.vcxproj -> E:\PC1\Ejercicio 1\Debug\Ejercicio 1.exe

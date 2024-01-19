@@ -1,0 +1,4 @@
+D:\Microsoft Visual Studio\Juego de damas proyecto\ConsoleApplication4\ConsoleApplication4\Debug\ConsoleApplication4.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Juego de damas proyecto\ConsoleApplication4\ConsoleApplication4\Debug\ConsoleApplication4.vcxproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\Random\ConsoleApplication4\ConsoleApplication4\Debug\ConsoleApplication4.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Random\ConsoleApplication4\ConsoleApplication4\Debug\ConsoleApplication4.vcxproj.SuggestedBindingRedirects.cache
